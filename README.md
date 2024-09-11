@@ -39,3 +39,5 @@ You can click the Preview link to take a look at your changes.
     </div>
   </li>
 </ul>
+
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=mfathifarhat&count_private=true&show_icons=true&hide=contribs)
