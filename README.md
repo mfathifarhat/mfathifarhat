@@ -3,7 +3,7 @@
 muhammadfathifarhat/muhammadfathifarhat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h2>F A T H I .</h2>
+<h1>F A T H I .</h1>
 
 <img src="BG-Github.png" >
 
