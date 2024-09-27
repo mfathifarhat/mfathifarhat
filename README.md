@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 <p>My name is Muhammad Fathi Farhat (Fathi) - Experienced Fullstack Web Developer with expertise in Laravel, Javascript, MySQL, and Microsoft SQL Server.</p>
 
 <h2 style="border-bottom">Tech Stack</h2>
-<div style="display: flex; flex-wrap: wrap;">
+<div style="display: flex; flex-wrap: wrap; margin-bottom: 14px;">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript">
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="php">
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript">
