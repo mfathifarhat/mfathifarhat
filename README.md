@@ -50,5 +50,4 @@ You can click the Preview link to take a look at your changes.
   </li>
 </ul> -->
 
-<h2 style="border-bottom">Stat</h2>
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=mfathifarhat&count_private=false&show_icons=true&hide=contribs)
