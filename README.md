@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 <h4>"Experience is the name everyone gives to their mistakes" - Oscar Wilde</h4>
 
-<p>My name is Muhammad Fathi Farhat (Fathi) - Experienced Fullstack Web Developer with expertise in Laravel, Javascript, MySQL, and Microsoft SQL Server.</p>
+<p>My name is Muhammad Fathi Farhat (Fathi) - Experienced Fullstack Web Developer with expertise in Vue, Inertia, Laravel, and Tailwind (VILT Stack)</p>
 
 <h2 style="border-bottom">Tech Stack</h2>
 <div style="display: flex; flex-wrap: wrap; padding-bottom: 16px;">
